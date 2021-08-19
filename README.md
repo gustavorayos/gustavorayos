@@ -1,6 +1,6 @@
 ### Hello 👋
 
-#### I'm a Computer Systems Engineer working in the San Francisco Bay Area.
+#### My name is Gus. I'm a Computer Systems Engineer working in the San Francisco Bay Area.
 
 ##### BIO
 
