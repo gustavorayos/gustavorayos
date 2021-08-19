@@ -1,38 +1,13 @@
-# HTML Resume Project
+### Hello 👋
 
-HTML file used to produce high quality resume and printed to PDF.
+#### I'm a Computer Systems Engineer working in the San Francisco Bay Area.
 
-## Getting Started
+##### BIO
 
-Edit HTML to whatever you like, then print as PDF from the web browser. For best results, I used Microsoft
-Edge and selected Microsoft Print to PDF function. Then sized the job to 50% and selected narrow margins. 
-
-### Prerequisites
-
-1) Code editor such as Visual Studio Code, Sublime, Textmate, etc.
-2) Web Browser (Microsoft Edge preffered).
-3) Print to PDF functionality in web browser.
-
-### Installing
-
-Download and edit code as you wish.
-
-## Built With
-
-* [Visual Studio Code](https://code.visualstudio.com/) - Code editor
-* [Canva](https://www.canva.com/) - Used to create logo
-* [Gimp](https://www.gimp.org/) - Used to edit photos
-* [Unsplash](https://unsplash.com/) - Used for stock photos
-* [Google Fonts](https://fonts.google.com/) - Used to fonts
-* [Blogger](https://www.blogger.com/) - Used to host website
-* [Reveal.js](https://revealjs.com/#/) - Used to animate logo on website
-
-## Authors
-
-* **Gustavo Rayos** - *Initial work* - [gustavorayos.com](https://www.gustavorayos.com)
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+- 🏢 I'm currently working at **Lockheed Martin Space**
+- ⚙️ I use daily: `Linux`, `Windows`, `.sh`, `.ps`
+- 💅 I've previously worked at: Raytheon Missile Systems (https://www.raytheonmissilesanddefense.com/), Consolidated Nuclear Security (https://cns-llc.us/), Los Alamos National Laboratory (https://www.lanl.gov/), etc…
+- 🌱 Learning all about **Systems Engineering, Automation, and DevOps**
+- 💬 Ping me about **Systems Engineering**, **Systems Administration**, **Systems Automation**, **Systems and Software Deployments**, **Cyber Security**
+- 📫 Reach me: [gustavorayos@outlook.com]
+- ⚡️ Fun fact: My last name means "ray" or "lightning" when translated from Spanish
