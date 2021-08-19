@@ -9,5 +9,5 @@
 - 💅 I've previously worked at: Raytheon Missile Systems (https://www.raytheonmissilesanddefense.com/), Consolidated Nuclear Security (https://cns-llc.us/), Los Alamos National Laboratory (https://www.lanl.gov/), etc…
 - 🌱 Learning all about **Systems Engineering, Automation, and DevOps**
 - 💬 Ping me about **Systems Engineering**, **Systems Administration**, **Systems Automation**, **Systems and Software Deployments**, **Cyber Security**
-- 📫 Reach me: [gustavorayos@outlook.com]
+- 📫 Reach me: gustavorayos@outlook.com
 - ⚡️ Fun fact: My last name means "ray" or "lightning" when translated from Spanish
