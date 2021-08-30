@@ -4,7 +4,7 @@
 
 ##### BIO
 
-- 🏢 I'm currently working at **Lockheed Martin Space** https://www.lockheedmartin.com/
+- 🚀 I'm currently working at **Lockheed Martin Space** https://www.lockheedmartin.com/
 - ⚙️ I use daily: `Linux`, `Windows`, `.sh`, `.ps`
 - 👾 I've previously worked at: 
   - Raytheon Missile Systems https://www.raytheonmissilesanddefense.com/
@@ -14,3 +14,4 @@
 - 💬 Ping me about **Systems Engineering**, **Systems Administration**, **Systems Automation**, **Systems and Software Deployments**, **Cyber Security**
 - 📫 Reach me: gustavorayos@outlook.com
 - ⚡️ Fun fact: My last name means "ray" or "lightning" when translated from Spanish
+- 🔑 DoD Secret Security Clearance
