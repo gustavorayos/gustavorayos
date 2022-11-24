@@ -13,5 +13,5 @@
 - 🌱 Learning all about **Systems Engineering, Automation, and DevOps**
 - 💬 Ping me about **Systems Engineering**, **Systems Administration**, **Systems Automation**, **Systems and Software Deployments**, **Cyber Security**
 - 📫 Reach me: gustavorayos@outlook.com
-- ⚡️ Fun fact: My last name Rayos translates to "lightning" when translated from Spanish.
+- ⚡️ Fun fact: I have 2 dogs named Tex and Ranger.
 - 🔑 DoD Secret Security Clearance
