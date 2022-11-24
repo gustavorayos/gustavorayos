@@ -1,6 +1,6 @@
 ### Hello 👋
 
-#### My name is Gus. I'm a Information Systems Engineer working in the San Francisco Bay Area 🌉
+#### My name is Gustavo. I'm a Systems Administrator.
 
 ##### BIO
 
