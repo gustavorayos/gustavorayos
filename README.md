@@ -15,3 +15,4 @@
 - 📫 Reach me: gustavorayos@outlook.com
 - ⚡️ Fun fact: I have 2 dogs named Tex and Ranger.
 - 🔑 DoD Secret Security Clearance
+- 🔒 CompTIA Security+ Certification
