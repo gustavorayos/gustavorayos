@@ -1,6 +1,6 @@
 ### Hello 👋
 
-#### My name is Gustavo. I'm a Systems Administrator.
+#### My name is Gustavo. I'm a Systems Engineer.
 
 ##### BIO
 
