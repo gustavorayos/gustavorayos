@@ -5,7 +5,7 @@
 ##### BIO
 
 - 🚀 I'm currently working at **Lockheed Martin Space** https://www.lockheedmartin.com/
-- ⚙️ I use daily: `Linux`, `Windows`, `.sh`, `.ps`
+- ⚙️ I use daily: `Linux`, `Windows`, `VMware`, `.sh`, `.ps`
 - 🔗 Also good with `.html`, `.css`, `.js`
 - 👾 I've previously worked at: 
   - Raytheon Missile Systems https://www.raytheonmissilesanddefense.com/
