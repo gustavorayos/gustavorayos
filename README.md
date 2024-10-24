@@ -1,6 +1,6 @@
 ### Hello 👋
 
-#### My name is Gustavo.
+#### I'm Gustavo.
 
 ##### BIO
 
