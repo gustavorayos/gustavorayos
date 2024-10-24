@@ -1,9 +1,10 @@
 ### Hello 👋
 
-#### My name is Gustavo. I'm a Systems Engineer.
+#### My name is Gustavo.
 
 ##### BIO
 
+_ 💻 I'm a Systems Administrator
 - ⚙️ I use daily: `Linux`, `Windows`, `VMware`, `.sh`, `.ps`
 - 🔗 Also good with `.html`, `.css`, `.js`
 - 👾 I've previously worked at: 
