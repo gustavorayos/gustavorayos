@@ -4,7 +4,7 @@
 
 ##### BIO
 
-_ 💻 I'm a Systems Administrator
+- 💻 I'm a Systems Administrator
 - ⚙️ I use daily: `Linux`, `Windows`, `VMware`, `.sh`, `.ps`
 - 🔗 Also good with `.html`, `.css`, `.js`
 - 👾 I've previously worked at: 
