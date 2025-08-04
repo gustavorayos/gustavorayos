@@ -1,6 +1,6 @@
 ### Hello 👋
 
-#### I'm Gustavo.
+#### I'm Gustavo ✌️
 
 ##### BIO
 
