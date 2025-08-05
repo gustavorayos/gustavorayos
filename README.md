@@ -15,6 +15,6 @@
 - 🌱 I'm continuously learning about **Systems Engineering**, **Automated OS/Software Deployments**, and **Cyber Security**
 - 💬 Ping me about **Systems Administration** and **Cyber Security Engineering**
 - 📫 Reach me: gustavorayos@outlook.com
-- ⚡️ Fun fact: I have 2 dogs named Tex and Ranger.
+- ⚡️ Fun fact: My last name is Spanish for "Ray of Light".
 - 🔑 DoD Secret Security Clearance
 - 🔒 CompTIA Security+ Certification
